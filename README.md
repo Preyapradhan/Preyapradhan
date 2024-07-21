@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Preya Pradhan</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=F7F7F7&background=091424&width=435&lines=Software+Development;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=4000&pause=500&color=F7F7F7&background=091424&width=435&lines= Pursuing+B.Tech+Degree+ICT; Web+Development+enthusiast; Software+Development+Enthusiast;  Open+Source+Contributor; Machine+Learning" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 I’m currently learning **React, Flutter, Flask, and Web development**.
+- 🌱 I’m currently learning **React, Flutter, Flask**.
 - 💻 I’m looking to collaborate on **Open Source Projects, Machine Learning Models, and Web Development**.
 - 🔭 I’m interested in **Software Development, Machine Learning, and Web Development**.
 - 📫 How to reach me: **[Email](mailto:Preyapradhan2645@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/preya-pradhan-a15627263)**.
