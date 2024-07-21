@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Preyapradhan</h1>
+<h1 align="center">Hi 👋, I'm Preya Pradhan</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=F7F7F7&background=091424&width=435&lines=Software+Development;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
@@ -37,7 +37,7 @@
 
 ## 📊 Projects
 
-### [NDVI Change Detection Application](https://github.com/Preyapradhan/ndvi-change-detection)
+### [NDVI Change Detection Application](https://github.com/Preyapradhan/NDVI_Image_Processing)
 An application for analyzing NDVI changes using Flutter and Python.
 
 ### [Storytelling Website](https://github.com/Preyapradhan/storytelling-website)
@@ -47,8 +47,9 @@ A storytelling platform built with React and CSS.
 An E-commerse Website using MERN Stack.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preyapradhan&repo=ndvi-change-detection&theme=radical" alt="NDVI Project" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preyapradhan&repo=storytelling-website&theme=radical" alt="Storytelling Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preyapradhan&repo=NDVI_Image_Processing&theme=radical" alt="NDVI Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preyapradhan&repo=Storyteller_website&theme=radical" alt="Storytelling Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preyapradhan&repo=e-commerce-website&theme=radical" alt="E-commerse Website Project" />
 </p>
 
 ---
