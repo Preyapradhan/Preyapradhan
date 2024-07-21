@@ -47,9 +47,9 @@ A storytelling platform built with React and CSS.
 An E-commerse Website using MERN Stack.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preyapradhan&repo=NDVI_Image_Processing&theme=radical" alt="NDVI Project" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preyapradhan&repo=Storyteller_website&theme=radical" alt="Storytelling Project" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preyapradhan&repo=e-commerce-website&theme=radical" alt="E-commerse Website Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preyapradhan&repo=NDVI_Image_Processing&theme=radical&description=An application for analyzing NDVI changes using Flutter and Python." alt="NDVI Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preyapradhan&repo=Storyteller_website&theme=radical&description=A storytelling platform built with React and CSS." alt="Storytelling Project" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preyapradhan&repo=e-commerce-website&theme=radical&description=An E-commerse Website using MERN Stack." alt="E-commerse Website Project" />
 </p>
 
 ---
