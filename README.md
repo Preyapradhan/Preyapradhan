@@ -37,17 +37,6 @@
 
 ## 📊 Projects
 
-### [NDVI Change Detection Application](https://github.com/Preyapradhan/NDVI_Image_Processing)
-An application for analyzing NDVI changes using Flutter and Python.
-
-### [Storytelling Website](https://github.com/Preyapradhan/Storyteller_website)
-A storytelling platform built with React and CSS.
-
-### [Ecommerce Website](https://github.com/Preyapradhan/e-commerce-website)
-An E-commerse Website using MERN Stack.
-
-## 📊 Projects
-
 <p align="center">
   <a href="https://github.com/Preyapradhan/NDVI_Image_Processing">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preyapradhan&repo=NDVI_Image_Processing&theme=radical" alt="NDVI Change Detection" />
@@ -56,7 +45,7 @@ An E-commerse Website using MERN Stack.
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preyapradhan&repo=Storyteller_website&theme=radical" alt="Storytelling Website" />
   </a>
   <a href="https://github.com/Preyapradhan/e-commerce-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preyapradhan&repo=/e-commerce-website&theme=radical" alt="Ecommerce Website" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preyapradhan&repo=e-commerce-website&theme=radical" alt="Ecommerce Website" />
   </a>
 </p>
 
