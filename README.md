@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Preyapradhan</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=F7F7F7&background=091424&width=435&lines=Software+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=500&color=F7F7F7&background=091424&width=435&lines=Software+Development;Machine+Learning+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 ---
