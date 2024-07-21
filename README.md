@@ -40,17 +40,32 @@
 ### [NDVI Change Detection Application](https://github.com/Preyapradhan/NDVI_Image_Processing)
 An application for analyzing NDVI changes using Flutter and Python.
 
-### [Storytelling Website](https://github.com/Preyapradhan/storytelling-website)
+### [Storytelling Website](https://github.com/Preyapradhan/Storyteller_website)
 A storytelling platform built with React and CSS.
 
 ### [Ecommerce Website](https://github.com/Preyapradhan/e-commerce-website)
 An E-commerse Website using MERN Stack.
 
+## 📊 Projects
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preyapradhan&repo=NDVI_Image_Processing&theme=radical&description=An application for analyzing NDVI changes using Flutter and Python." alt="NDVI Project" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preyapradhan&repo=Storyteller_website&theme=radical&description=A storytelling platform built with React and CSS." alt="Storytelling Project" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preyapradhan&repo=e-commerce-website&theme=radical&description=An E-commerse Website using MERN Stack." alt="E-commerse Website Project" />
+  <a href="https://github.com/Preyapradhan/NDVI_Image_Processing">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preyapradhan&repo=NDVI_Image_Processing&theme=radical" alt="NDVI Change Detection" />
+  </a>
+  <a href="https://github.com/Preyapradhan/storytelling-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preyapradhan&repo=Storyteller_website&theme=radical" alt="Storytelling Website" />
+  </a>
+  <a href="https://github.com/Preyapradhan/e-commerce-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Preyapradhan&repo=/e-commerce-website&theme=radical" alt="Ecommerce Website" />
+  </a>
 </p>
+
+
+## 📊 GitHub Stats
+
+| GitHub Streak | GitHub Stats |
+| ------------- | ------------ |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=Preyapradhan&theme=radical)](https://git.io/streak-stats) | <picture> <source srcset="https://github-readme-stats.vercel.app/api?username=Preyapradhan&show_icons=true&theme=radical" media="(prefers-color-scheme: dark)" /> <source srcset="https://github-readme-stats.vercel.app/api?username=Preyapradhan&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" /> <img src="https://github-readme-stats.vercel.app/api?username=Preyapradhan&show_icons=true" /> </picture> |
 
 ---
 
